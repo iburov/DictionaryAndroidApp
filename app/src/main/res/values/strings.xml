@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dictionary Android App</string>
+    <string name="dictionary">Dictionary</string>
+    <string name="define">define</string>
+    <string name="french">French</string>
+    <string name="empty">EMPTY</string>
+    <string name="definition_column">Definition:</string>
+    <string name="english">English</string>
+</resources>
